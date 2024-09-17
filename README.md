@@ -27,7 +27,7 @@ The Library Project is a Django-based application that provides a RESTful API fo
 1. **Clone the repository**
 
    ```bash
-   git clone (https://github.com/alishermutalov/libraryproject.git)
+   git clone "https://github.com/alishermutalov/libraryproject.git"
    cd libraryproject
 
 2. **Create and activate a virtual environment**
