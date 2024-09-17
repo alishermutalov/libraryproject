@@ -55,7 +55,7 @@ The Library Project is a Django-based application that provides a RESTful API fo
 
 Update the DATABASES settings in settings.py to match your PostgreSQL configuration.
 
-    ```python
+    python
     
     DATABASES = {
         'default': {
@@ -72,9 +72,9 @@ Replace <database-name>, <database-user>, and <database-password> with your actu
 **API Endpoints**
 **Books**
 
-    **List Books**
-        **Endpoint:** "GET /api/v01/"
-        **Description:** Retrieves a list of books.
+    List Books
+        Endpoint: GET /api/v01/
+        Description: Retrieves a list of books.
 
     Create Book
         Endpoint: POST /api/v01/book/create/
