@@ -55,7 +55,6 @@ The Library Project is a Django-based application that provides a RESTful API fo
 
 Update the DATABASES settings in settings.py to match your PostgreSQL configuration.
 
-    python
     
     DATABASES = {
         'default': {
